@@ -1,0 +1,43 @@
+body{
+    background-color:#303030;
+}
+.titulo1 {
+    color: rgb(43, 226, 165);
+}
+.titulo2 {
+    color: rgb(43, 226, 165);
+}
+.sidebar1 {
+    color: rgb(43, 226, 165);
+}
+
+h2{
+    font-size: 30px;
+}
+.parrafo1{
+    color:white;
+}
+.parrafo2{
+    color:white;
+}
+.parrafo3{
+    color:white;
+}
+.menu1{
+    color: white;
+}
+.footer1{
+    color: tomato;
+}
+a[href="http://www.google.com"]{
+    color: teal;
+}
+.linkiphone{
+    color: teal;
+}
+.linkcontacto{
+    color: teal;
+}
+.linkairpods{
+    color: teal;
+}
